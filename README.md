@@ -1,5 +1,8 @@
-## Hi there 👋
+# 关于我 About Me
 
+兴趣：物理、数学、计算机、教育、心理、医学
+
+Interests: Physics, Maths, Computer, Education, Psychology, Medicine
 <!--
 **iispacetime/iispacetime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
